@@ -42,4 +42,6 @@ while True:
             Ks * getResponse(e, e_b, sysParam)
         )
     )
+
+    e_b = e
     sleep(.05)
